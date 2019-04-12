@@ -34,7 +34,7 @@
   "dependencies": {
     "commander": "2.9.0",
     "strip-json-comments": "1.0.2",
-    "postman-collection": "0.0.13",
+    "postman-collection": "3.4.7",
     "postman-collection-transformer": "^1.7.3"
   }
 }
