@@ -1,3 +1,6 @@
+# postman-to-locustio
+This is an experimental postman collection file to locust.io script converter, based on the postman-to-loadimpact convert
+
 # postman-to-loadimpact
 
 Converts Postman collections to Load Impact user scenarios. Given a Postman collection, the transformer will auto-generate a [Lua script](http://support.loadimpact.com/knowledgebase/topics/117699-user-scenario-scripting) to be imported as user scenario for your load tests.
